@@ -1,5 +1,4 @@
-To play this plugin, visit [Quadnix Plugins](https://plugins.quadnix.com)
-or [click here](https://plugins.quadnix.com/launch?author=quadnix&id=circus-html5).
+[Click here](http://circusgame-quadnix.engine.quadnix.com) to play the Circus game in Quadnix Plugins.
 
 Instructions
 
